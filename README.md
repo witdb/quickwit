@@ -1,5 +1,5 @@
-[![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI+branch%3Amain)
-[![codecov](https://codecov.io/gh/quickwit-oss/quickwit/branch/main/graph/badge.svg?token=06SRGAV5SS)](https://codecov.io/gh/quickwit-oss/quickwit)
+[![CI](https://github.com/witdb/quickwit/actions/workflows/ci.yml/badge.svg)](https://github.com/witdb/quickwit/actions?query=workflow%3ACI+branch%3Amain)
+[![codecov](https://codecov.io/gh/witdb/quickwit/branch/main/graph/badge.svg?token=TODO)](https://codecov.io/gh/witdb/quickwit)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Quickwit_Inc?color=%231DA1F2&logo=Twitter&style=plastic)](https://twitter.com/Quickwit_Inc)
@@ -42,7 +42,7 @@ Cloud-native search engine for observability (logs, traces, and soon metrics!). 
 
 <br/>
 
-<video src="https://github.com/quickwit-oss/quickwit/assets/653704/020b94b9-deeb-4376-9a3a-b82e1168094c" controls="controls" style="max-width: 1200px;">
+<video src="https://github.com/witdb/quickwit/assets/653704/020b94b9-deeb-4376-9a3a-b82e1168094c" controls="controls" style="max-width: 1200px;">
 </video>
 
 <br/>
@@ -57,7 +57,7 @@ Cloud-native search engine for observability (logs, traces, and soon metrics!). 
 - Schemaless analytics
 - Sub-second search on cloud storage (Amazon S3, Azure Blob Storage, Google Cloud Storage, …)
 - Decoupled compute and storage, stateless indexers & searchers
-- [Grafana data source](https://github.com/quickwit-oss/quickwit-datasource)
+- [Grafana data source](https://github.com/witdb/quickwit-datasource)
 - Kubernetes ready - See our [helm-chart](https://quickwit.io/docs/deployment/kubernetes/helm)
 - RESTful API
 
@@ -140,9 +140,9 @@ HA is available for search, for indexing it's available only with a Kafka source
 
 We are always thrilled to receive contributions: code, documentation, issues, or feedback. Here's how you can help us build the future of log management:
 
-- Start by checking out the [GitHub issues labeled "Good first issue"](https://github.com/quickwit-oss/quickwit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). These are a great place for newcomers to contribute.
+- Start by checking out the [GitHub issues labeled "Good first issue"](https://github.com/witdb/quickwit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). These are a great place for newcomers to contribute.
 - Read our [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md) to understand our community standards.
-- [Create a fork of Quickwit](https://github.com/quickwit-oss/quickwit/fork) to have your own copy of the repository where you can make changes.
+- [Create a fork of Quickwit](https://github.com/witdb/quickwit/fork) to have your own copy of the repository where you can make changes.
 - To understand how to contribute, read our [contributing guide](./CONTRIBUTING.md).
 - Set up your development environment following our [development setup guide](./CONTRIBUTING.md#development).
 - Once you've made your changes and tested them, you can contribute by [submitting a pull request](./CONTRIBUTING.md#submitting-a-pr).
